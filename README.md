@@ -4,7 +4,20 @@ ESH
 ESH_log
 
  
+2018-11-15 created
 
-20181115 update
+2018-11-15
 
-14:16 update
+embed latex equations
+Gaussian function
+Matrix transform
+
+
+
+
+
+Todo list:
+Dehaze
+DCT/DST/FFT/KLT
+Compressed Sensing
+HDR+
