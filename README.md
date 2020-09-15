@@ -1,24 +1,27 @@
-ESH
-===
+# notes
+======
+#### items are listed by alphabetical order
 
-ESH_log
+### Gradient
+* Gradient descent
+* Gradient vanishing
+* Gradient explosion
+* Gradient boosting
+* Gradient clipping
 
- 
-2018-11-15 created
+### Normalization
+* Linear/std/nonlinear
+* Local response normalization, boost active response 
+* Batch normalization, constraint intermediate value within network
+* Layer normalization,
+* Instance 
+* Group normalization, improve robustness in small batches
 
-2018-11-15
+### Optimizers
+* ADAM
+* SGD
 
-embed latex equations
-Gaussian function
-Matrix transform
-
-
-
-
-
-Todo list:
-makeImageBoarder--sliding window
-Dehaze
-DCT/DST/FFT/KLT
-Compressed Sensing
-HDR+
+### Regularization
+* L1
+* L2
+* dropout
